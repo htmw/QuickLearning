@@ -6,6 +6,5 @@
 Fun Fact we are on a mission to build a new generation of Management System.<br />
 
 <!---
-BrewingTechnologies/BrewingTechnologies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+We are a team of enthusiasts coder exploring the new treands in technology.   
 --->
