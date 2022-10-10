@@ -6,8 +6,8 @@
 Fun Fact we are on a mission to build a new generation of Management System.<br />
 We are a team of enthusiasts coder exploring the new treands in technology.   
 
-# QuickLearnig<br />
-This is a web based learing management application designed specifically to create, distribute, and manage the delivery of educational content. Making the course details available to the student all in one place. The primary goal of QuickLearning is helping the student plan their course work and prioritize the deadlines in a better way.
+# QuickLearnig
+This is a web based learing management application designed specifically to create, distribute, and manage the delivery of educational content. Making the course details available to the student all in one place. The primary goal of QuickLearning is helping the student plan their course work and prioritize the deadlines in a better way. Using QuickLearning you can create different user profiles like the Admin, Teacher and the Student. QuickLearning can be a stand alone product hosted on the company server, or it can be hosted on a cloud based platform by a software firm.
 
-# Design<br />
+# Design
 The frontend of QuickLearning is implemented using ReactJs. So that the user can view their courses/portal using the website as well as the mobile application. For backend we are using java, and testing Node JS. And the Database we are using testing Mongo DB/MySQL. 
