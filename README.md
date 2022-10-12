@@ -13,3 +13,9 @@ This is a web based learing management application designed specifically to crea
 The **_frontend_** of QuickLearning is implemented using **_ReactJs_**. So that the user can view their courses/portal using the website as well as the mobile application.<br />
 For **_backend_** we are using **_java_**, and testing Node JS.<br />
 And the **_Database_** we are using testing **_Mongo DB_** and MySQL. 
+
+#File Structure
+Our applications is structed as follows:
+
+#Team Memeber
+
