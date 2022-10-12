@@ -14,8 +14,8 @@ The **_frontend_** of QuickLearning is implemented using **_ReactJs_**. So that 
 For **_backend_** we are using **_java_**, and testing Node JS.<br />
 And the **_Database_** we are using testing **_Mongo DB_** and MySQL. 
 
-#File Structure
+# File Structure
 Our applications is structed as follows:
 
-#Team Memeber
+# Team Memeber
 
