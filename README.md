@@ -6,7 +6,7 @@
 Fun Fact we are on a mission to build a new generation of Management System.<br />
 We are a team of enthusiasts coder exploring the new treands in technology.   
 
-# QuickLearnig
+# QuickLearning
 This is a web based learing management application designed specifically to create, distribute, and manage the delivery of educational content. Making the course details available to the student all in one place. The primary goal of QuickLearning is helping the student plan their course work and prioritize the deadlines in a better way. Using QuickLearning the admin can create different user profiles like Teacher and Student. This allows the teacher to review the individually performance of each student. Due to push notifications the students never miss any new content uploaded also the deadlines allow them to submit the assissgnment on time. QuickLearning can be a stand alone product hosted on the company server, or it can be hosted on a cloud based platform by a software firm.
 
 # Design
